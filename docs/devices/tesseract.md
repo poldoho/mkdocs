@@ -27,8 +27,8 @@ AS5404T runs Asustor Data Master (ADM) OS. Since this is my first NAS, I decided
 
 ADM uses Docker containers but has an App Central front end that makes installing containers, as *applications*, very user-friendly. Most of the services I’ve deployed on Tesseract are through App Central. The exceptions are Watchtower and a few containers not officially supported by App Central, which I use mostly for testing.
 
-| Service     | Usage                        |
-|-------------|------------------------------|
-| [Portainer](../services/portainer.md)   | Container management tool    |
-| [Jellyfin](../services/jellyfin.md)    | Open-source Media Server     |
+| Service                                   | Usage                        |
+|-------------------------------------------|------------------------------|
+| [Portainer](../services/portainer.md)     | Container management tool    |
+| [Jellyfin](../services/jellyfin.md)       | Open-source Media Server     |
 | [Vaultwarden](../services/vaultwarden.md) | Open-source Password Manager |

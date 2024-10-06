@@ -38,5 +38,15 @@ nav:
   - Home: index.md
   - Devices:
     - Asustor AS5404T: devices/tesseract.md
+    - Raspberry Pi 4B: devices/wandapi.md
   - Services:
+    - cAdvisor: services/cadvisor.md
+    - Dockge: services/dockge.md
+    - Grafana: services/grafana.md
+    - Jellyfin: services/jellyfin.md
+    - Node Exporter: services/nodeexporter.md
     - Portainer: services/portainer.md
+    - Prometheus: services/prometheus.md
+    - SNMP Exporter: services/snmpexporter.md
+    - Tailscale: services/tailscale.md
+    - Vaultwarden: services/vaultwarden.md
